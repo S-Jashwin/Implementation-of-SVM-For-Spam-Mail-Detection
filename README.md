@@ -24,7 +24,7 @@ RegisterNumber:  24000675
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/31200845-c5af-474e-a755-b948edc3cbae)
+![image](https://github.com/user-attachments/assets/61e7f1c2-0852-43ef-a4dc-ca0f813f1893)
 ![image](https://github.com/user-attachments/assets/0b98d116-6b48-498c-88e0-413f4043f5e7)
 
 
